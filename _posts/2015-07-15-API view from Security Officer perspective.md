@@ -3,6 +3,7 @@ layout: post
 title: "API view from Security Officer perspective"
 modified: 2015-08-17T23:31:04+01:00
 categories: API API_Security API_Management
+permalink: /API-view-from-security-officer-perspective
 excerpt:
 tags: [API, API Roles, API Security, API Management]
 image:
