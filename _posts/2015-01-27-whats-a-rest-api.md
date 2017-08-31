@@ -2,7 +2,7 @@
 layout: post
 title: "What's a REST API?"
 modified:
-categories: API API Security API Management
+categories: API, API Security, API Management
 excerpt:
 tags: [API, API Security, API Management]
 image:
