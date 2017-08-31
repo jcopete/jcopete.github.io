@@ -2,7 +2,7 @@
 layout: post
 title: "API view from API developer perspective"
 modified: 2017-04-29T23:31:04+01:00
-categories: API, API Management, API Development
+categories: API API_Management API_Development
 permalink: /API-view-from-API-developer
 excerpt:
 tags: [API, API Roles, API Management, API Development]
