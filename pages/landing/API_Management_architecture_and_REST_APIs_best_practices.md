@@ -22,6 +22,6 @@ Other well know facilitator for the API Economy, is the adoption of REST API des
   
 My view on best practices is that typically is a document stored on a drawer, say e-drawer if you prefer, so I typically focus on the needed processes to ensure that API Design best practices are met. This leads to facilitate the API Economy adoption and the industrialization of the entire API Implementation cycle.
     
-If you have any doubt, or you want to share your view, you can always contact me.
+If you have any doubt, or you want to share your view, you can always contact me.  
 
 <a markdown="0" href="http://linkedin.com/in/jcopete" class="btn">Visit my LinkedIn profile</a>
