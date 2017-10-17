@@ -9,8 +9,8 @@ image:
 ---
 
 
-API Management is the set of processes intended to define the REST APIs goals, follow the defined lifecycles (for example: design, implement, test, publish, decommission), facilitate the onboarding processes for the API Consumers and keep track of the API consumption and the API Economy adoption.<br/><br/>
-API Management Reference Architecture is a facilitator to guide development, standardization and evolution of REST APIs, and it is intimately linked to API implementation and adoption. <br/><br/>
+API Management is the set of processes intended to define the REST APIs goals, follow the defined lifecycles (for example: design, implement, test, publish, decommission), facilitate the onboarding processes for the API Consumers and keep track of the API consumption and the API Economy adoption.  
+API Management Reference Architecture is a facilitator to guide development, standardization and evolution of REST APIs, and it is intimately linked to API implementation and adoption.  
 I have worked in different API Management projects for the last years helping companies define and establish their API Strategy and crafting their API Management Reference Architecture.<br/><br/>
 Other well know facilitator for the API Economy, is the adoption of REST API design best practices. Well design APIs typically have certain advantages like:<br/><br/>
 1. Easy to understand and consume
