@@ -8,7 +8,7 @@ excerpt:
 tags: [API, API Management, API Development, API Security]
 image:
   feature:
-date: 2017-12-03T13:21:09+01:00
+date: 2017-12-03T13:20:09+01:00
 ---
 
 This post is a translation from the original I did some years ago here [OAuth 2.0, autorizando el uso de recursos](https://lacabezaenlanube.wordpress.com/2014/11/02/oauth-2-0-autorizando-el-uso-de-recursos/)
