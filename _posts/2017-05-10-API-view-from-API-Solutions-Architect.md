@@ -4,8 +4,8 @@ title: "API view from API Solutions Architect perspective"
 modified: 2017-05-10T21:31:04+01:00
 categories: API API_Management API_Development
 permalink: /API-view-from-API-Solutions-Architect
-excerpt:
-tags: [API, API Roles, API Management, API Solutions Architect]
+excerpt: From API Solutions Architect perspective, the different needs for a successful API Management implementation
+tags: [API Roles, API Management, API Solutions Architect, API Success]
 image:
   feature:
 date: 2017-05-10T21:31:04+01:00
