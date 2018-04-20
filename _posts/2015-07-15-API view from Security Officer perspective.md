@@ -4,8 +4,8 @@ title: "API view from Security Officer perspective"
 modified: 2015-08-17T23:31:04+01:00
 categories: API API_Security API_Management
 permalink: /API-view-from-security-officer-perspective
-excerpt:
-tags: [API, API Roles, API Security, API Management]
+excerpt:From Security Officer perspective, the different needs for a successful API Management implementation
+tags: [API Roles, API Security, API Management, API Success]
 image:
   feature:
 date: 2015-07-15T19:23:02+01:00
